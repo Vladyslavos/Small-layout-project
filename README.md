@@ -1,3 +1,3 @@
 # Small-layout-project
 Small layout project that I completed with "Avocode" graphics editor
-https://vladyslavos.github.io/Small-layout-project/
+<a href="https://vladyslavos.github.io/Small-layout-project/">LIVE</a>
